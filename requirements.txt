@@ -1,0 +1,4 @@
+webbot
+pynput
+chromedriver-binary
+selenium
